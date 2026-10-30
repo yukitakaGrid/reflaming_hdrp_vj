@@ -1,10 +1,10 @@
-# reflaming_hdrp_vj — Generative VJ "Ariake"
+# reflaming_hdrp_vj — Generative VJ
 
 Unity (HDRP) で作った VJ。BSP（空間の分割）で並べたビル群の、サイズと高さを音と MIDI コントローラーで動的に変える。
 A VJ set built in Unity HDRP: building clusters laid out by BSP change their size and height with the audio and a MIDI controller.
 
-- 演奏：draw(); のライブイベント（2025年11月）— https://function-draw.com
-- 映像：https://www.youtube.com/watch?v=R8c0UuTo-rM
+- 演奏：draw(); 「放課後ジェネラティ部 #4」（2025年11月27日、Visual：Ariake 名義）— https://function-draw.com
+- 映像（イベントのダイジェスト）：https://www.youtube.com/watch?v=R8c0UuTo-rM
 - 主なスクリプト：`Assets/Scripts/`（SimpleBSPGenerator・ProceduralBuildingHybrid・AudioReactive・MidiController など）
 
 ## 開くとき
