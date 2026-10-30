@@ -1,0 +1,42 @@
+# Unity が作り直すもの
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/*_BurstDebugInformation_DoNotShip/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
+.DS_Store
+
+# 手元の控え
+/Assets.zip
+
+# Asset Store などの他の人の素材（再配布できない）
+/Assets/KT_SmartMat_Vol_6/
+/Assets/KT_SmartMat_Vol_6.meta
+/Assets/SkySeries Freebie/
+/Assets/SkySeries Freebie.meta
+/Assets/SpaceZeta_StreetLamps2/
+/Assets/SpaceZeta_StreetLamps2.meta
+
+# ビルドした app と、Unity が作り直す生成物
+/*.app/
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+
+# 透かし入りのストック写真（再配布できない）
+/Assets/Sources/syoji.jpg
+/Assets/Sources/syoji.jpg.meta
